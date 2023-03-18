@@ -2,18 +2,18 @@
 
 @font-face {
     font-family: 'catcafe-medium';
-    src: url(res/font/catcafe.medium.ttf);
+    src: url(../res/font/catcafe.medium.ttf);
 }
 @font-face {font-family: "Lemon-Milk-Medium"; 
-            src:url(res/font/LEMONMILK-Medium.otf);
+            src:url(../res/font/LEMONMILK-Medium.otf);
  }
 
  @font-face {font-family: "Lemon-Milk-Regular"; 
-    src:url(res/font/LEMONMILK-Regular.otf);
+    src:url(../res/font/LEMONMILK-Regular.otf);
 }
 
 @font-face {font-family: "Lemon-Milk-Light"; 
-    src:url(res/font/LEMONMILK-Light.otf);
+    src:url(../res/font/LEMONMILK-Light.otf);
 }
 
 :root
