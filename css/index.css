@@ -28,7 +28,7 @@
     position: absolute;
     width: 200px;
     height: 200px;
-    background-image: url("/res/img/random-checkerboard.png");
+    background-image: url("res/img/random-checkerboard.png");
     background-size: cover;
 
 }
@@ -88,7 +88,7 @@
     position: absolute;
     width: 3em;
     height: 3em;
-    background-image: url("/res//img/ventiChibiPngCloseMouth.png");
+    background-image: url("res/img/ventiChibiPngCloseMouth.png");
     background-size: cover;
     right: .5em;
     bottom: .5em;
@@ -99,7 +99,7 @@
 .leftPanel .aboutBtn:hover, .leftPanel .imgIcon:hover
 {
  
-    background-image: url("/res//img/ventiChibiPngOpenMouth.png");
+    background-image: url("res/img/ventiChibiPngOpenMouth.png");
     cursor: pointer;
     background-color: rgb(218, 75, 204);
     border-radius: 5em;
@@ -188,7 +188,7 @@
    top: 0%;
    left : 62.5%;
    position: relative;
-   background-image: url("/res/img/ventiChibiPngOpenMouth.png");
+   background-image: url("res/img/ventiChibiPngOpenMouth.png");
    background-size: contain;
    animation: rotation 3s infinite linear;
 }
@@ -266,7 +266,7 @@
         position: absolute;
         width: 200px;
         height: 200px;
-        background-image: url("/res/img/random-checkerboard.png");
+        background-image: url("res/img/random-checkerboard.png");
         background-size: cover;
 
     }
@@ -320,7 +320,7 @@
     top: 0%;
     left : 62.5%;
     position: relative;
-    background-image: url("/res/img/ventiChibiPngOpenMouth.png");
+    background-image: url("res/img/ventiChibiPngOpenMouth.png");
     background-size: contain;
     animation: rotation 3s infinite linear;
     }
@@ -362,7 +362,7 @@
         position: absolute;
         width: 200px;
         height: 200px;
-        background-image: url("/res/img/random-checkerboard.png");
+        background-image: url("res/img/random-checkerboard.png");
         background-size: cover;
 
     }
@@ -416,7 +416,7 @@
     top: 0%;
     left : 62.5%;
     position: relative;
-    background-image: url("/res/img/ventiChibiPngOpenMouth.png");
+    background-image: url("res/img/ventiChibiPngOpenMouth.png");
     background-size: contain;
     animation: rotation 3s infinite linear;
     }
@@ -458,7 +458,7 @@
         position: absolute;
         width: 200px;
         height: 200px;
-        background-image: url("/res/img/random-checkerboard.png");
+        background-image: url("res/img/random-checkerboard.png");
         background-size: cover;
 
     }
@@ -520,7 +520,7 @@
         top: 0%;
         left : 24rem;
         position: relative;
-        background-image: url("/res/img/ventiChibiPngOpenMouth.png");
+        background-image: url("res/img/ventiChibiPngOpenMouth.png");
         background-size: contain;
         animation: rotation 3s infinite linear;
     }
@@ -563,7 +563,7 @@
         position: absolute;
         width: 200px;
         height: 200px;
-        background-image: url("/res/img/random-checkerboard.png");
+        background-image: url("res/img/random-checkerboard.png");
         background-size: cover;
 
     }
@@ -619,7 +619,7 @@
         top: 0%;
         left : 24rem;
         position: relative;
-        background-image: url("/res/img/ventiChibiPngOpenMouth.png");
+        background-image: url("res/img/ventiChibiPngOpenMouth.png");
         background-size: contain;
         animation: rotation 3s infinite linear;
     }
@@ -662,7 +662,7 @@
         position: absolute;
         width: 200px;
         height: 200px;
-        background-image: url("/res/img/random-checkerboard.png");
+        background-image: url("res/img/random-checkerboard.png");
         background-size: cover;
 
     }
@@ -718,7 +718,7 @@
         top: 0%;
         left : 24rem;
         position: relative;
-        background-image: url("/res/img/ventiChibiPngOpenMouth.png");
+        background-image: url("res/img/ventiChibiPngOpenMouth.png");
         background-size: contain;
         animation: rotation 3s infinite linear;
     }
@@ -761,7 +761,7 @@
         position: absolute;
         width: 200px;
         height: 200px;
-        background-image: url("/res/img/random-checkerboard.png");
+        background-image: url("res/img/random-checkerboard.png");
         background-size: cover;
 
     }
@@ -819,7 +819,7 @@
         top: 0%;
         left : 24rem;
         position: relative;
-        background-image: url("/res/img/ventiChibiPngOpenMouth.png");
+        background-image: url("res/img/ventiChibiPngOpenMouth.png");
         background-size: contain;
         animation: rotation 3s infinite linear;
     }
